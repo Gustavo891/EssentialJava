@@ -1,0 +1,20 @@
+mines:
+  normal:
+    pos1:
+      world: "mundo"
+      x: 3014
+      y: 62
+      z: 2956
+      yaw: 0.0
+      pitch: 0.0
+    pos2:
+      world: "mundo"
+      x: 3038
+      y: 48
+      z: 2980
+      yaw: 0.0
+      pitch: 0.0
+    ores:
+      - DIAMOND_ORE, 10
+      - LAPIS_ORE, 90
+

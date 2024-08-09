@@ -1,0 +1,7 @@
+ores:
+  LAPIS_ORE:
+    money: 20
+  IRON_ORE:
+    money: 40
+  DIAMOND_ORE:
+    money: 120

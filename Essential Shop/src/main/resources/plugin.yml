@@ -1,0 +1,6 @@
+name: EssentialShop
+version: '${version}'
+main: gustavo.essentialshop.EssentialShop
+api-version: '1.20'
+softdepend:
+  - EssentialEconomy

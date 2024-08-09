@@ -1,0 +1,6 @@
+name: EssentialFlight
+version: '${version}'
+main: gustavo.essentialflight.EssentialFlight
+api-version: '1.20'
+depend:
+  - EssentialEconomy

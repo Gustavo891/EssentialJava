@@ -1,0 +1,8 @@
+name: Essential
+version: '1'
+main: gustavo.essential.Essential
+api-version: '1.20'
+softdepend:
+  - PlaceholderAPI-2.11.5
+  - Multiverse-Core
+  - essentialeconomy

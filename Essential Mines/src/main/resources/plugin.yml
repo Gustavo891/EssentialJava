@@ -1,0 +1,8 @@
+name: EssentialMines
+version: '${version}'
+main: gustavo.essentialmines.EssentialMines
+softdepend:
+  - Multiverse-Core
+  - DencentHolograms
+  - essentialeconomy
+api-version: '1.20'

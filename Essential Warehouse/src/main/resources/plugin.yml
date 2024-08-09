@@ -1,0 +1,7 @@
+name: EssentialWarehouse
+version: '${version}'
+main: gustavo.essentialwarehouse.EssentialWarehouse
+api-version: '1.20'
+softdepend:
+  - PlotSquared
+  - essentialeconomy

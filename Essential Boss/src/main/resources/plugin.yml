@@ -1,0 +1,13 @@
+name: EssentialBoss
+version: '1.0-SNAPSHOT'
+main: org.essential.essentialBoss.EssentialBoss
+api-version: '1.20'
+softdepend:
+  - PlotSquared
+commands:
+  boss:
+    description: Recebe um ovo de boss.
+    usage: /<command>
+  matadora:
+    description: Recebe uma matadora de boss.
+    usage: /<command>

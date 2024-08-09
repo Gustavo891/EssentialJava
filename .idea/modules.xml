@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential Economy.EssentialEconomy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential Economy.EssentialEconomy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential Flight.EssentialFlight.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential Flight.EssentialFlight.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential Mines.EssentialMines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential Mines.EssentialMines.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential Shop.EssentialShop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential Shop.EssentialShop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential Warehouse.EssentialWarehouse.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential Warehouse.EssentialWarehouse.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Essential.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Essential.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialBoss.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialBoss.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialEconomy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialEconomy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialFlight.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialFlight.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialMines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialMines.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialShop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialShop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialWarehouse.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialWarehouse.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EssentialWarehouse.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EssentialWarehouse.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Plugins.iml" filepath="$PROJECT_DIR$/.idea/Plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Punish.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Punish.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RankUP Essential.Essential.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RankUP Essential.Essential.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.Essential.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.Essential.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialEconomy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialEconomy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialFlight.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialFlight.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialMines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialMines.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialShop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialShop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialWarehouse.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialWarehouse.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.EssentialWarehouse.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.EssentialWarehouse.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gustavo.Punish.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gustavo.Punish.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.essential.EssentialBoss.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.essential.EssentialBoss.main.iml" />
+    </modules>
+  </component>
+</project>
